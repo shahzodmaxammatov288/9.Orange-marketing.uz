@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Montserrat-Black';
+    src: url(../Shrift/Montserrat-Black.ttf);
+}
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url(../Shrift/Montserrat-Bold.ttf);
+}
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url(../Shrift/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: 'Montserrat-Light';
+    src: url(../Shrift/Montserrat-Light.ttf);
+}
+@font-face {
+    font-family: 'Montserrat-Thin';
+    src: url(../Shrift/Montserrat-Thin.ttf);
+}
